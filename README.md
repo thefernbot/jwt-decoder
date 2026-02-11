@@ -2,7 +2,7 @@
 
 A developer tool for decoding and inspecting JSON Web Tokens in your browser.
 
-**Live:** https://jwt-decoder.vercel.app
+**Live:** https://jwt-decoder-mauve.vercel.app
 
 ## Features
 
